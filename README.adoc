@@ -1,2 +1,10 @@
-# numero-uno-de
+= numero-uno-de
 Website
+
+== Folders
+
+* docs -> Antora Docs in Asciidoc
+* src/main/
+** cicd -> Deployment Pipelines
+** construction-site -> Comming Soon Pate
+** public -> The real public Website
