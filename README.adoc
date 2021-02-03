@@ -2,6 +2,8 @@
 
 Private website for some funny stuff.
 
+image::docs/modules/ROOT/assets/images/branch-strategy.png[branch-strategy]
+
 == Folders
 
 * docs -> Antora Docs in Asciidoc

@@ -1,1 +1,3 @@
 = www.numero-uno.de & www.scusi-numero-uno.de
+
+image::branch-strategy.png[branch-strategy]
