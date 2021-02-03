@@ -1,3 +1,18 @@
 = www.numero-uno.de & www.scusi-numero-uno.de
 
+== Branching
 image::branch-strategy.png[branch-strategy]
+
+== Homepage Comic
+https://i.pinimg.com/736x/da/7b/32/da7b3253d9ba995ed61367f76681cc52.jpg
+http://image.slidesharecdn.com/thesimpsonshandbook-141226103545-conversion-gate01/95/the-simpsons-handbook-12-638.jpg?cb=1419623366
+https://i.pinimg.com/originals/06/a7/80/06a78044149dcdf7772c400ab295da6d.jpg
+https://i.pinimg.com/originals/45/d5/88/45d588ac8aa4c5991508b26f5cc358e6.jpg
+https://i.pinimg.com/originals/59/d1/d8/59d1d8ff51be253ea6f39ca5fbe22736.jpg
+https://i.pinimg.com/originals/9f/a5/8b/9fa58bab870adcab8f16848de33e8aea.jpg
+https://i.pinimg.com/originals/b1/ff/d8/b1ffd870b4c0d2cf8950b958781a8ef1.jpg
+https://i.pinimg.com/originals/45/d5/88/45d588ac8aa4c5991508b26f5cc358e6.jpg
+https://image.slidesharecdn.com/thesimpsonshandbook-141226103545-conversion-gate01/95/the-simpsons-handbook-31-638.jpg?cb=1419623366
+https://i.pinimg.com/originals/cb/97/fa/cb97fa88a1b85141ab081d4788eac088.jpg
+https://image.slidesharecdn.com/thesimpsonshandbook-141226103545-conversion-gate01/95/the-simpsons-handbook-25-638.jpg?cb=1419623366
+https://i.pinimg.com/originals/9f/a5/8b/9fa58bab870adcab8f16848de33e8aea.jpg
