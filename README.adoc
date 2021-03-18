@@ -12,3 +12,8 @@ Private website for some funny stuff.
 
 == Branch Strategy
 image::docs/modules/ROOT/assets/images/branch-strategy.png[branch-strategy]
+
+== Template Designs
+
+* https://dnsmichi.at
+* https://www.designerinaction.de/tipps-tricks/web-development/css-frameworks
