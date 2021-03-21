@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+
+:root {
+  --link-color: #909499;
+  --link-color-hover: #46B8E9;
+  --font: 'Ubuntu', sans-serif;
+}
+
+body { font-family: var(--font); }
+
+a { text-decoration: none; }
+.leader a { color: var(--link-color); display: inline-block; padding: 0 .5em; }
+.leader a:hover { color: var(--link-color-hover); }

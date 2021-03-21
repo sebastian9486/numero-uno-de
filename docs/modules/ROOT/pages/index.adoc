@@ -1,7 +1,6 @@
-= www.numero-uno.de & www.scusi-numero-uno.de
+= www.numero-uno.de
 
-== Branching
-image::branch-strategy.png[branch-strategy]
+Private website for some fun stuff.
 
 == Homepage Comic
 https://i.pinimg.com/736x/da/7b/32/da7b3253d9ba995ed61367f76681cc52.jpg
